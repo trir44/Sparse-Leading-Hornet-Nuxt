@@ -1,1 +1,8 @@
-# Sparse-Leading-Hornet-Nuxt
+# The Secret FG Repo
+
+its lit ig 
+
+haii vince
+
+
+``` getfenv()```
