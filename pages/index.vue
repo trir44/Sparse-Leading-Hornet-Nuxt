@@ -6,7 +6,7 @@
       class="home-image"
     />
     <h1 class="home-text">
-      <span>FlippinGAMES</span>
+      <span>FLIPPINGAMES</span>
       <br />
     </h1>
     <h1 class="home-text3">Your new, best game publisher.</h1>
